@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>SpaceX</title>
+  </head>
+  <body>
+    <a href="./site.html" ><img src="./logo.png" alt="Logo da SpaceX" /></a>
+    <a href="./spaceships.html">The Spaceships</a> |
+    <a href="./hireus.html">Hire Us</a>
+    <hr />
+    <section>
+      <h3>Space Exploration Technologies Corp.</h3>
+      <p>
+        Space Exploration Technologies Corp., trade name SpaceX, is an American manufacturer of aerospace, space transportation and communications systems based in Hawthorne, California. SpaceX was founded in 2002 by Elon Musk with the aim of reducing space transportation costs to enable the colonization of Mars. SpaceX manufactures the Falcon 9 and Falcon Heavy launch vehicles, various types of rocket engines, Dragon cargo capsules, manned spacecraft and Starlink communications satellites.
+      </p>
+      <p>
+        SpaceX's achievements include the first privately funded liquid-fueled rocket to reach orbit (Falcon 1 in 2008), the first private company to successfully launch, orbit and recover a spacecraft (Dragon in 2010), the first private company to sending a spacecraft to the International Space Station (Dragon in 2012), the first vertical takeoff and vertical propulsive landing for an orbital rocket (Falcon 9 in 2015), the first reuse of an orbital rocket (Falcon 9 in 2017), and the first company private space to send astronauts into orbit and to the International Space Station (SpaceX Crew Dragon Demo-2 in 2020). SpaceX has already launched and reused the Falcon 9 series of rockets more than 100 times.
+      </p>
+      <p>
+        SpaceX is developing a satellite mega-constellation called Starlink to provide commercial internet service. In January 2020, the Starlink constellation became the largest satellite constellation in the world. SpaceX is also developing Starship, a privately funded, fully reusable, super-heavy launch system for interplanetary spaceflight. The Starship intends to become SpaceX's primary orbital vehicle once operational, supplanting the existing Falcon 9, Falcon Heavy and Dragon fleet. The Starship will be fully reusable and have the largest payload capacity of any orbital rocket ever on its debut of its scheduled orbital flight in the first half of 2022.
+      </p>
+    </section>
+    <section>
+      <p>
+        <h3>Our Services</h3>
+      </p>
+      <p>
+        <ul>
+        <li>Revolutionize space technology.</li>
+        <li>Launch rockets that deliver payloads into Earth orbit.</li>
+        <li>Work to make space tourism a reality.</li>
+        <li>Military missions.</li>
+        </ul>
+    </p>
+    </section>
+    <section>
+      <p><h3>Prices</h3></p>
+      <table border="1">
+        <thead>
+          <tr><th>Service</th><th>Value</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Revolutionize space technology</td><td>$450.000</td></tr>
+          <tr><td>Launch rockets that deliver payloads into Earth orbit</td><td>$122.000</td></tr>
+          <tr><td>Work to make space tourism a reality</td><td>$333.000</td></tr>
+          <tr><td>Military missions</td><td>$444.000</td></tr>
+        </tbody>
+      </table>
+    </section>
+  </body>
+</html>
